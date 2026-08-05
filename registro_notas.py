@@ -1,3 +1,4 @@
+# Autor: José Alejandro Bonilla Carrera
 contador = 0
 suma = 0
  
