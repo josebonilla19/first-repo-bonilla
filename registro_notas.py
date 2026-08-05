@@ -1,4 +1,5 @@
 # Autor: José Alejandro Bonilla Carrera
+# Fecha: 05/08/2026
 contador = 0
 suma = 0
  
